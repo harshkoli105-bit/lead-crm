@@ -79,7 +79,7 @@ lead-crm/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/lead-crm.git
+git clone https://github.com/harshkoli105-bit/lead-crm.git
 cd lead-crm
 ```
 
